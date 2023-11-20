@@ -1,0 +1,7 @@
+{
+  "name": "mqtt_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
