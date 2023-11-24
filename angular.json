@@ -32,7 +32,7 @@
               }
             ],
             "styles": ["src/theme/variables.scss", "src/global.scss"],
-            "scripts": []
+            "scripts": [    "node_modules/mqtt/dist/mqtt.js" ]
           },
           "configurations": {
             "production": {
@@ -112,7 +112,9 @@
               }
             ],
             "styles": ["src/theme/variables.scss", "src/global.scss"],
-            "scripts": []
+            "scripts": [    "node_modules/mqtt/dist/mqtt.js" ]
+
+            
           },
           "configurations": {
             "ci": {
